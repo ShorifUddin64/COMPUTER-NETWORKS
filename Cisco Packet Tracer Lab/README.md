@@ -4,7 +4,7 @@
   <tr>
     <td align="center">
       <img src="https://ipcisco.com/wp-content/uploads/2020/03/cisco-packet-tracer-labs-ipcisco.com_-1.png" width="280" style="border-radius: 8px;" alt="Cisco Packet Tracer Lab"/><br>
-      <h3>Md. Shorif Uddin</h3>
+      <h3>Cisco Packet Tracer Lab</h3>
       <a href="https://github.com/ShorifUddin64/COMPUTER-NETWORKS/tree/main/Cisco%20Packet%20Tracer%20Lab">
         <img src="https://img.shields.io/badge/GitHub-ShorifUddin64-blue?style=flat&logo=github" alt="GitHub Profile">
       </a>
