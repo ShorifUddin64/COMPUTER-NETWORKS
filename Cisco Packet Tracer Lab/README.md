@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ipcisco.com/wp-content/uploads/2020/03/cisco-packet-tracer-labs-ipcisco.com_-1.png" alt="Author Profile" width="150">
+  <img src="https://ipcisco.com/wp-content/uploads/2020/03/cisco-packet-tracer-labs-ipcisco.com_-1.png" alt="Author Profile" width="80">
 </p>
 
 <h1 align="center">Cisco Packet Tracer Network Labs</h1>
