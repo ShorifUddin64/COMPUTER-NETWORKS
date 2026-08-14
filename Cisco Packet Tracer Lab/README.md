@@ -11,12 +11,6 @@
     </td>
   </tr>
 </table>
-
-</div>
-<p align="center">
-  <img src="https://i.imgur.com/3Z18x1a.png" alt="Cisco Packet Tracer Lab Banner" width="100%">
-</p>
-
 <h1 align="center">Cisco Packet Tracer Network Labs</h1>
 
 <p align="center">
