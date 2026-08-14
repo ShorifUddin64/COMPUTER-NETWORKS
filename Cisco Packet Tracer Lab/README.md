@@ -6,7 +6,8 @@
       <img src="https://ipcisco.com/wp-content/uploads/2020/03/cisco-packet-tracer-labs-ipcisco.com_-1.png" width="280" style="border-radius: 8px;" alt="Cisco Packet Tracer Lab"/><br>
       <h3>Cisco Packet Tracer Lab</h3>
       <a href="https://github.com/ShorifUddin64/COMPUTER-NETWORKS/tree/main/Cisco%20Packet%20Tracer%20Lab">
-        <img src="https://img.shields.io/badge/GitHub-ShorifUddin64-blue?style=flat&logo=github" alt="GitHub Profile">
+        <img src="<img width="447" height="559" alt="Untitled design (1)-Photoroom" src="https://github.com/user-attachments/assets/b5e4e80d-bf1e-4eb8-ba74-cf561b68a406" />
+" alt="GitHub Profile">
       </a>
     </td>
   </tr>
