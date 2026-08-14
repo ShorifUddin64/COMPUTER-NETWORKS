@@ -46,16 +46,10 @@ This repository contains various network design simulations created using **Cisc
 
 <div align="center">
 
-<table style="border: 1px solid #30363d; border-radius: 10px; padding: 20px;">
-  <tr>
-    <td align="center">
-      <img src="https://ipcisco.com/wp-content/uploads/2020/03/cisco-packet-tracer-labs-ipcisco.com_-1.png" width="220" style="border-radius: 8px;" alt="Md. Shorif Uddin"/><br>
-      <h3>Md. Shorif Uddin</h3>
-      <a href="https://github.com/ShorifUddin64">
-        <img src="https://img.shields.io/badge/GitHub-ShorifUddin64-blue?style=flat&logo=github" alt="GitHub Profile">
-      </a>
-    </td>
-  </tr>
-</table>
+  <img src="https://ipcisco.com/wp-content/uploads/2020/03/cisco-packet-tracer-labs-ipcisco.com_-1.png" width="300" style="border-radius: 8px;" alt="Md. Shorif Uddin"/><br>
+  <h3>Md. Shorif Uddin</h3>
+  <a href="https://github.com/ShorifUddin64">
+    <img src="https://img.shields.io/badge/GitHub-ShorifUddin64-blue?style=flat&logo=github" alt="GitHub Profile">
+  </a>
 
 </div>
