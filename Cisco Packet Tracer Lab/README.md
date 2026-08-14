@@ -35,7 +35,7 @@
 <table style="border: 1px solid #30363d; border-radius: 10px; padding: 20px;">
   <tr>
     <td align="center">
-      <img src="https://i.imgur.com/eB0rV4r.png" width="280" style="border-radius: 8px;" alt="Md. Shorif Uddin"/><br>
+      <img src="shorif_uddin.jpeg" width="280" style="border-radius: 8px;" alt="Md. Shorif Uddin"/><br>
       <h3>Md. Shorif Uddin</h3>
       <a href="https://github.com/ShorifUddin64">
         <img src="https://img.shields.io/badge/GitHub-ShorifUddin64-blue?style=flat&logo=github" alt="GitHub Profile">
